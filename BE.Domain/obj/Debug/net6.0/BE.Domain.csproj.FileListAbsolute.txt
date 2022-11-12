@@ -1,0 +1,14 @@
+/home/gabo2084-fedora37/Projects/Net/BaseSystem/BE/BE.Domain/bin/Debug/net6.0/BE.Domain.deps.json
+/home/gabo2084-fedora37/Projects/Net/BaseSystem/BE/BE.Domain/bin/Debug/net6.0/BE.Domain.runtimeconfig.json
+/home/gabo2084-fedora37/Projects/Net/BaseSystem/BE/BE.Domain/bin/Debug/net6.0/BE.Domain.dll
+/home/gabo2084-fedora37/Projects/Net/BaseSystem/BE/BE.Domain/bin/Debug/net6.0/BE.Domain.pdb
+/home/gabo2084-fedora37/Projects/Net/BaseSystem/BE/BE.Domain/obj/Debug/net6.0/BE.Domain.csproj.AssemblyReference.cache
+/home/gabo2084-fedora37/Projects/Net/BaseSystem/BE/BE.Domain/obj/Debug/net6.0/BE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabo2084-fedora37/Projects/Net/BaseSystem/BE/BE.Domain/obj/Debug/net6.0/BE.Domain.AssemblyInfoInputs.cache
+/home/gabo2084-fedora37/Projects/Net/BaseSystem/BE/BE.Domain/obj/Debug/net6.0/BE.Domain.AssemblyInfo.cs
+/home/gabo2084-fedora37/Projects/Net/BaseSystem/BE/BE.Domain/obj/Debug/net6.0/BE.Domain.csproj.CoreCompileInputs.cache
+/home/gabo2084-fedora37/Projects/Net/BaseSystem/BE/BE.Domain/obj/Debug/net6.0/BE.Domain.dll
+/home/gabo2084-fedora37/Projects/Net/BaseSystem/BE/BE.Domain/obj/Debug/net6.0/refint/BE.Domain.dll
+/home/gabo2084-fedora37/Projects/Net/BaseSystem/BE/BE.Domain/obj/Debug/net6.0/BE.Domain.pdb
+/home/gabo2084-fedora37/Projects/Net/BaseSystem/BE/BE.Domain/obj/Debug/net6.0/BE.Domain.genruntimeconfig.cache
+/home/gabo2084-fedora37/Projects/Net/BaseSystem/BE/BE.Domain/obj/Debug/net6.0/ref/BE.Domain.dll

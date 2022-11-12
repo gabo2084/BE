@@ -1,0 +1,27 @@
+Structure Project
+
+- API
+    - Controllers
+
+- Domain
+    - DTOs
+    - Entities
+    - Enums
+    - Models
+- Infra
+    - Data
+    - Helpers
+
+
+
+Commands Dotnet EF
+
+Migrations
+
+- dotnet ef migrations add InitialCreate --project Infra.csproj --context SqliteDataContext --output-dir Migrations/SqliteMigrations --startup-project ../API/API.csproj
+
+    dotnet ef migrations add InitialCreate --project BE.Infra.csproj --context SqliteDataContext --output-dir Migrations/SqliteMigrations --startup-project ../BE.Api/BE.Api.csproj
+
+- dotnet ef database update --project Infra.csproj --context SqliteDataContext --output-dir Migrations/SqliteMigrations --startup-project ../API/API.csproj
+
+    dotnet ef database update --project BE.Infra.csproj --context SqliteDataContext --output-dir Migrations/SqliteMigrations --startup-project ../BE.Api/BE.Api.csproj
