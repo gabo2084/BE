@@ -22,6 +22,17 @@ Migrations
 
     dotnet ef migrations add InitialCreate --project BE.Infra.csproj --context SqliteDataContext --output-dir Migrations/SqliteMigrations --startup-project ../BE.Api/BE.Api.csproj
 
-- dotnet ef database update --project Infra.csproj --context SqliteDataContext --output-dir Migrations/SqliteMigrations --startup-project ../API/API.csproj
+- dotnet ef database update --project Infra.csproj --context SqliteDataContext --startup-project ../API/API.csproj
 
-    dotnet ef database update --project BE.Infra.csproj --context SqliteDataContext --output-dir Migrations/SqliteMigrations --startup-project ../BE.Api/BE.Api.csproj
+    dotnet ef database update --project BE.Infra.csproj --context SqliteDataContext --startup-project ../BE.Api/BE.Api.csproj
+
+
+
+
+- dotnet ef migrations add InitialCreate --project Infra.csproj --context BEContext --output-dir Migrations/SqlServer --startup-project ../API/API.csproj
+
+    dotnet ef migrations add InitialCreate --project BE.Infra.csproj --context BEContext --output-dir Migrations/SqlServer --startup-project ../BE.Api/BE.Api.csproj
+
+- dotnet ef database update --project Infra.csproj --context BEContext --startup-project ../API/API.csproj
+
+    dotnet ef database update --project BE.Infra.csproj --context BEContext --startup-project ../BE.Api/BE.Api.csproj
